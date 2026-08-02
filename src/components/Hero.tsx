@@ -1,4 +1,4 @@
-import heroImage from "../assets/hero.svg";
+import heroImage from "@/assets/hero.svg";
 
 const Hero = () => {
   return (

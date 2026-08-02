@@ -8,7 +8,7 @@
 - [x] **Paso 6:** Crear e implementar el componente `Navbar`.
 - [x] **Paso 7:** Descargar y organizar assets (Imágenes e Íconos) de Figma.
 - [x] **Paso 8:** Crear e implementar el componente `Hero`.
-- [/] **Paso 9:** Crear e implementar el componente `Clients` (Logos).
-- [ ] **Paso 10:** Crear e implementar el componente `Features` (Servicios).
+- [x] **Paso 9:** Crear e implementar el componente `Clients` (Logos).
+- [/] **Paso 10:** Crear e implementar el componente `Features` (Servicios).
 - [ ] **Paso 11:** Crear e implementar el componente `Footer`.
 - [ ] **Paso 12:** Pulido final (Responsividad móvil y micro-animaciones).

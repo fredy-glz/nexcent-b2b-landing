@@ -1,5 +1,6 @@
-import Hero from "./components/Hero";
-import Navbar from "./components/Navbar";
+import Clients from "@/components/Clients";
+import Hero from "@/components/Hero";
+import Navbar from "@/components/Navbar";
 
 function App() {
   return (
@@ -10,6 +11,7 @@ function App() {
       {/* Contenido temporal de prueba */}
       <main>
         <Hero />
+        <Clients />
       </main>
     </div>
   );
