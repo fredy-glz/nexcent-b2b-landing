@@ -3,6 +3,7 @@ import Hero from "@/components/Hero";
 import Navbar from "@/components/Navbar";
 import Features from "@/components/Features";
 import Unlock from "@/components/Unlock";
+import Achievements from "./components/Achievements";
 
 function App() {
   return (
@@ -16,6 +17,7 @@ function App() {
         <Clients />
         <Features />
         <Unlock />
+        <Achievements />
       </main>
     </div>
   );

@@ -11,8 +11,8 @@
 - [x] **Paso 9:** Crear e implementar el componente `Clients` (Logos).
 - [x] **Paso 10:** Crear e implementar el componente `Features` (Servicios).
 - [x] **Paso 11:** Crear e implementar el componente `Unlock` (Imagen Izquierda, Texto Derecha).
-- [/] **Paso 12:** Crear e implementar el componente `Achievements` (Estadísticas del negocio).
-- [ ] **Paso 13:** Crear e implementar el componente `Calendar` (Texto Izquierda, Imagen Derecha).
+- [x] **Paso 12:** Crear e implementar el componente `Achievements` (Estadísticas del negocio).
+- [/] **Paso 13:** Crear e implementar el componente `Calendar` (Texto Izquierda, Imagen Derecha).
 - [ ] **Paso 14:** Crear e implementar el componente `Testimonial` (Logo Tesla / Reseña).
 - [ ] **Paso 15:** Crear e implementar el componente `CommunityUpdates` (Tarjetas de Blog).
 - [ ] **Paso 16:** Crear e implementar el componente `DemoCTA` (Llamado a la acción pre-footer).
