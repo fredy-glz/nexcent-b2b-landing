@@ -1,6 +1,7 @@
 import Clients from "@/components/Clients";
 import Hero from "@/components/Hero";
 import Navbar from "@/components/Navbar";
+import Features from "@/components/Features";
 
 function App() {
   return (
@@ -12,6 +13,7 @@ function App() {
       <main>
         <Hero />
         <Clients />
+        <Features />
       </main>
     </div>
   );
