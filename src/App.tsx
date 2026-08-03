@@ -2,6 +2,7 @@ import Clients from "@/components/Clients";
 import Hero from "@/components/Hero";
 import Navbar from "@/components/Navbar";
 import Features from "@/components/Features";
+import Unlock from "@/components/Unlock";
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
         <Hero />
         <Clients />
         <Features />
+        <Unlock />
       </main>
     </div>
   );
